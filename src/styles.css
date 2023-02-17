@@ -883,8 +883,8 @@ a {
   .dx-data-row .e {
     display: grid;
     grid-auto-columns: 100% !important;
-    width: 340px !important;
-    max-width: 340px !important;
+    width: 330px !important;
+    max-width: 330px !important;
     white-space: normal !important;
   }
   .dx-data-row .c, 
