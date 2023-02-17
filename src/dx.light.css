@@ -12348,7 +12348,7 @@ display:none; /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! скрытие зн�
 	position: absolute;
 	margin: -1px 0px 0px 50px;
 	POSITION:fixed;
-	Z-INDEX:1999;
+	Z-INDEX:1500;
 	top: 0px;
 	//POSITION:absolute;
 	TOP:expression(document.getElementsByTagName( 'body' )[0].scrollTop + 'px');  /*???*/
