@@ -876,15 +876,15 @@ a {
 /*
 ОБЪЕДИНЕНИЕ КОЛОНОК "b-c-d-e" (АДАПТИВНОСТЬ). Аналог фраг. скрипта "скрытие опред-ных столбцов по классу, когда экран меньше..." /index.js/
 */
-@media (max-width: 700px) {
+@media (max-width: 500px) {
   .dx-data-row .b, 
   .dx-data-row .c, 
   .dx-data-row .d, 
   .dx-data-row .e {
     display: grid;
     grid-auto-columns: 100% !important;
-    width: 396px !important;
-    max-width: 396px !important;
+    width: 340px !important;
+    max-width: 340px !important;
     white-space: normal !important;
   }
   .dx-data-row .c, 
