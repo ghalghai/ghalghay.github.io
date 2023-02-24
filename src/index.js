@@ -546,7 +546,7 @@ $(function(){
 
         //allowSorting: false,
         encodeHtml: false,
-        width: '8%',
+        width: '10%',
         dataField: 'c',
         //alignment: "right",  //!!
         caption: 'Сокр.',
@@ -577,7 +577,7 @@ $(function(){
         placeholder: "↓ Фильтр (RegEx)…",
         allowHeaderFiltering: false,
         encodeHtml: false,
-        width: '41%',
+        width: '44%',
         dataField: 'd',
         caption: 'Рус.<v>+Инг+Eng',
         //caption: '<rus>',

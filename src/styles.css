@@ -884,7 +884,7 @@ a {
     display: grid;
     grid-auto-columns: 100% !important;
     width: 330px !important;
-    max-width: 330px !important;
+    max-width: 330px !important; /*264%*/
     white-space: normal !important;
   }
   .dx-data-row .c, 
@@ -918,7 +918,7 @@ a {
     margin-top: 0px !important;
     margin-bottom: 0px !important;
     padding-top: 0px !important;
-    padding-bottom: 0px !important;
+    padding-bottom: 0px !important; line-height:122% !important;
   }
    Xsep, Xsep2, Xsep3 {
     display: inline !important; position:absolute !important; margin-left: -0.5em !important;
@@ -945,7 +945,7 @@ a {
   .dx-datagrid .dx-column-lines > td {
     border-right: 0px solid #ffffff;     /*!!! вертикальные не-фильтра ячеек !!!!!!*/
   }
-  emp {
+  j {
     display: none !important; 
     height: 0px !important; 
     line-height:0px !important;
